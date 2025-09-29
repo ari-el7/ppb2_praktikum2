@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997882886667",
+    "project_id": "ppb2-akbar-atma",
+    "storage_bucket": "ppb2-akbar-atma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997882886667:android:95c0c2c79656dfb27d650e",
+        "android_client_info": {
+          "package_name": "com.example.ppb2_akbaratma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997882886667-90gruddcq13dl1ms4kmaovavir1m5dpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ppb2_akbaratma",
+            "certificate_hash": "8c1b5447416164b70240b80fa9321f8beb33bf24"
+          }
+        },
+        {
+          "client_id": "997882886667-n3c56i9ms3nibmrv4ofu8ue0ag6td2e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZqGPDOrH0SaTE3erCDcqlEK4O4OaFho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997882886667-n3c56i9ms3nibmrv4ofu8ue0ag6td2e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

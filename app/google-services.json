@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997882886667",
+    "project_id": "ppb2-akbar-atma",
+    "storage_bucket": "ppb2-akbar-atma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997882886667:android:95c0c2c79656dfb27d650e",
+        "android_client_info": {
+          "package_name": "com.example.ppb2_akbaratma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZqGPDOrH0SaTE3erCDcqlEK4O4OaFho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
